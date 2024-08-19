@@ -10,7 +10,7 @@ import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 
-export const url = 'http://localhost:4000'
+export const url = 'https://spotify-backend-161c.onrender.com'
 
 const App = () => {
   return (
